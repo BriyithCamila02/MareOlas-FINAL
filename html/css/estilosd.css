@@ -1,0 +1,287 @@
+html{
+  background-image: url(https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body{
+  display: block;
+  width: 1300px;
+  height: 720px;
+  margin-top: 120px;
+  margin-left: 320px;
+  background-color: #7ebcc2;
+  padding: 20px 0px 0px 20px;
+
+}
+
+/*Barra de menú*/
+.Menú {
+  float: right;
+  margin: 0 15px 0 0;
+  font-size: 20px;
+  font-color: #f1e4e8;
+
+  }
+
+
+/*Isla mujeres*/
+div.texto-isla-mujeres{
+  margin-bottom: 10px;
+  margin-left: 10px;
+  width: 50px;
+  height: 10px;
+  background-color: #7ebcc2;
+  word-spacing: 0.24em;
+}
+
+h1{
+    margin-left: 135px;
+    margin-bottom: 1px;
+    padding: 0;
+    padding-bottom: 0px;
+    color: #f1e4e8;
+    font-size: 35px;
+    text-align: left;
+    font-family: CreamPuff;
+    line-height: 18px;
+
+    }
+
+    div.texto-cancún{
+      margin-bottom: 5px;
+      margin-left: 10px;
+      margin-top: 10px;
+      width: 1px;
+      height: 10px;
+      background-color: #7ebcc2;
+      word-spacing: 0.24em;
+
+    }
+
+    h4{
+      margin-left: 135px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      color: #235789;
+      line-height: 5px;
+      font-size: 30px;
+      text-align: left;
+    }
+
+    div.texto-plata-cancún{
+      margin-top: 5px;
+      width: 50px;
+      height: 10px;
+      background-color: #7ebcc2;
+      word-spacing: 0.14em;
+    }
+
+    h7{
+      margin-left: 155px;
+      margin-top: 10px;
+      color: #c2714f;
+      line-height: 5px;
+      font-size: 30px;
+      text-align: left;
+
+    }
+
+
+
+    /*punta cana*/
+
+    div.texto-punta-cana{
+        position: absolute;bottom:480px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+      width: 50px;
+      height: 10px;
+      background-color: #7ebcc2;
+      word-spacing: 0.24em;
+    }
+
+h3{
+  margin-left: 920px;
+  margin-bottom: 1px;
+  padding: 0;
+  padding-bottom: 0px;
+  color: #f1e4e8;
+  font-size: 35px;
+  text-align: right;
+  font-family: CreamPuff;
+  line-height: 18px;
+                }
+
+div.texto-punta-cana{
+
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 1px;
+  height: 10px;
+  background-color: #7ebcc2;
+  word-spacing: 0.24em;
+}
+
+h6{
+  margin-left: 860px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #235789;
+  line-height: 5px;
+  font-size: 30px;
+  text-align: right;
+}
+
+div.texto-precio-punta{
+  margin-left: 60px;
+  width: 50px;
+  height: 20px;
+  background-color: #7ebcc2;
+}
+                h9{
+                  margin-left: 890px;
+                  margin-top: 10px;
+                  color: #c2714f;
+                  font-size: 30px;
+                  text-align: right;
+                }
+
+/*playa manzanillo*/
+
+div.texto-playa-manzanillo{
+    position: absolute;bottom:1px;
+      position: absolute; top:90px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  width: 50px;
+  height: 10px;
+  background-color:#7ebcc2;
+  word-spacing: 0.24em;
+}
+
+h2{
+  margin-left: 390px;
+  margin-bottom: 1px;
+  margin-top: 30px
+  padding: 0;
+  padding-bottom: 0px;
+  color: #f1e4e8;
+  font-size: 35px;
+  text-align: left;
+  font-family: CreamPuff;
+  line-height: 18px;
+}
+
+
+div.texto-cartagena-colombia{
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 1px;
+  height: 10px;
+  background-color: #7ebcc2;
+  word-spacing: 0.24em;
+}
+
+h5{
+  margin-left: 400px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: #235789;
+  line-height: 5px;
+  font-size: 30px;
+  text-align: center;
+}
+
+div.texto-precio-col{
+  margin-top: 10px;
+  width: 50px;
+  height: 10px;
+  background-color:#7ebcc2;
+  word-spacing: 0.14em;
+}
+
+
+h8{
+  margin-left: 450px;
+  margin-top: 15px;
+  color: #c2714f;
+  line-height: 5px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+
+
+/*fotografías destinos*/
+
+div.Contenedor-punta-cana {
+
+  margin-left: 80px;
+  margin-top: 1px;
+    height: 200px;
+    width: 200px;
+    background-color: #EEE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+img.punta-cana {
+  display:flex;
+ margin:0 auto;
+ height: 200px;
+ align-items:center;
+ align-content: center;
+  float: right;
+  justify-content: right;
+}
+
+div.Contenedor-playa-manzanillo{
+  margin-left: 320px;
+  margin-right: 50px;
+  margin-top: 0px;
+    width: 120px;
+    height: 200px;
+    background-color: #EEE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+img.playa-manzanillo{
+  display:flex;
+ margin:auto;
+ height: 280px;
+ align-items: center;
+ align-content: center;
+ justify-content: center;
+}
+
+
+div.Contenedor-isla-mujeres{
+  margin-top: 150px;
+  margin-left: 100px;
+    height: 200px;
+    width: 200px;
+    background-color: #EEE;
+    display:flex;
+    justify-content: left;
+    align-items: left;
+}
+
+img.isla-mujeres{
+ display:flex;
+ margin:auto;
+ height: 200px;
+ align-items: center;
+ align-content: center;
+ float: left;
+ justify-content: left;
+}

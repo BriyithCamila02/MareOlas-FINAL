@@ -1,0 +1,171 @@
+html{
+  background-image: url(https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body{
+  display: block;
+  width: 1300px;
+  height: 720px;
+  margin-top: 120px;
+  margin-left: 320px;
+  background-color: #235789;
+  padding: 20px 0px 0px 20px;
+}
+
+/*Barra de menú*/
+.Menú {
+  float: right;
+  margin: 0 15px 0 0;
+  font-size: 20px;
+  font-color: #f1e4e8;
+
+  }
+
+
+/*Playa Pattaya*/
+
+
+/*fotografías destinos*/
+
+div.Contenedor-playa-maceió {
+
+  margin-left: 80px;
+  margin-top: 1px;
+    height: 200px;
+    width: 200px;
+    background-color: #EEE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+img.playa-maceió {
+  display:flex;
+ margin:0 auto;
+ height: 200px;
+ align-items:center;
+ align-content: center;
+  float: right;
+  justify-content: right;
+}
+
+div.Contenedor-playa-zante{
+  margin-left: 320px;
+  margin-right: 50px;
+  margin-top: 0px;
+    width: 90px;
+    height: 200px;
+    background-color: #EEE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+img.playa-zante{
+  display:flex;
+ margin:auto;
+ height: 280px;
+ align-items: center;
+ align-content: center;
+ justify-content: center;
+}
+
+
+div.Contenedor-playa-pattaya{
+  margin-top: 250px;
+  margin-left: 100px;
+    height: 200px;
+    width: 200px;
+    background-color: #EEE;
+    display:flex;
+    justify-content: left;
+    align-items: left;
+}
+
+img.playa-pattaya{
+ display:flex;
+ margin:auto;
+ height: 200px;
+ align-items: center;
+ align-content: center;
+ float: left;
+ justify-content: left;
+}
+
+
+#tabla1{
+  position: absolute;bottom:400px;
+  position: absolute; left:400px;
+  display: block;
+  height: 4em [64px];
+  margin: 6em 0 [96px 0px 96px 0px]XYx;
+   border: 1px solid #1E679A;
+   width: 150px;
+}
+#cabtab1{
+   background-color: #c2714f;
+   font-weight: bold;
+   color: #f1e4e8;
+   padding: 2 2 2 2px;
+     font-family: ;
+     font-size: 20px;
+}
+#cuerpotab1{
+   padding: 4 4 4 4px;
+   background-color: #84dcc6;
+    color: #235789;
+}
+
+
+
+
+
+#tabla2{
+    position: absolute;bottom:400px;
+    position: absolute; left: 300px;
+  margin-top: 3px;
+  margin-left:450px;
+   border: 1px solid #1E679A;
+   width: 180px;
+}
+#cabtab2{
+   background-color: #c2714f;
+   font-weight: bold;
+   color: #f1e4e8;
+   padding: 2 2 2 2px;
+     font-family: ;
+     font-size: 20px;
+}
+#cuerpotab2{
+   padding: 4 4 4 4px;
+   background-color: #84dcc6;
+    color: #235789;
+}
+
+
+#tabla3{
+    position: absolute;bottom:390px;
+      position: absolute; left: 315px;
+  display: block;
+  margin-left:850px;
+   border: 1px solid #1E679A;
+   width: 170px;
+
+}
+#cabtab3{
+   background-color: #c2714f;
+   font-weight: bold;
+   color: #f1e4e8;
+   padding: 2 2 2 2px;
+     font-size: 20px;
+}
+#cuerpotab3{
+   padding: 4 4 4 4px;
+   background-color: #84dcc6;
+    color: #235789;
+}

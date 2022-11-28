@@ -1,0 +1,56 @@
+html{
+  background-image: url(https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+h1{
+  margin: 0 auto;
+  padding: 290px;
+  padding-bottom: 0px;
+  color: #235789;
+  font-size: 100px;
+  text-align: center;
+  font-family: CreamPuff;
+  }
+
+h2{
+  margin: 0 auto;
+  padding-top: 0px;
+  padding-bottom: 350px;
+  color: #235789;
+  font-size: 40px;
+  text-align: center;
+  font-family: Gatsby;
+}
+
+/*botones redes sociales*/
+
+.media-buttons .link {
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  height: 34px;
+  width: 34px;
+  border-radius: 50%;
+  margin: 0 8px;
+  background-color: #235789;
+  text-decoration: none;
+}
+
+
+
+
+/*Barra de menú*/
+.Menú {
+  float: right;
+  margin: 0 15px 0 0;
+  font-size: 20px;
+  font-color: #f1e4e8;
+
+  }
